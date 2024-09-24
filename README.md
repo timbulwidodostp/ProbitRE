@@ -1,6 +1,8 @@
 # ProbitRE
 Probit Model with Random Effects Use ProbitRE With (In) R Software
 
+https://www.youtube.com/watch?v=OFzBBBPysXw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
